@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HyperSync</string>
+    <string name="app_done">We work to Unite ⚡</string>
+    <string name="start">Get Started</string>
+    <string name="success">Information Submitted</string>
+    <string name="success1">Our team will contact you after verification.</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="title_home">Home</string>
+    <string name="title_project">Project</string>
+    <string name="title_attendance">Attendance</string>
+    <string name="title_profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

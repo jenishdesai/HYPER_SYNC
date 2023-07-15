@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.HyperSync.hypersync">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.HyperSync">
+        <activity
+            android:name="com.HyperSync.hypersync.ui.adminTool.AdminTool"
+            android:exported="false"
+            android:label="Admin Tool"/>
+        <activity
+            android:name="com.HyperSync.hypersync.TermsConditions"
+            android:exported="false" />
+        <activity
+            android:name="com.HyperSync.hypersync.HomePage"
+            android:exported="false"
+            android:label="@string/title_activity_home_page" />
+        <activity
+            android:name="com.HyperSync.hypersync.Recorded"
+            android:exported="false"
+            android:label="Information Collected" />
+        <activity
+            android:name="com.HyperSync.hypersync.SignUpAdminActivity"
+            android:exported="false"
+            android:label="Register Company" />
+        <activity
+            android:name="com.HyperSync.hypersync.DetailActivity"
+            android:exported="false"
+            android:label="Detail" />
+        <activity
+            android:name="com.HyperSync.hypersync.OTPActivity"
+            android:exported="false"
+            android:label="Verification" />
+        <activity
+            android:name="com.HyperSync.hypersync.SignUpActivity"
+            android:exported="false"
+            android:label="Sign Up" />
+        <activity
+            android:name="com.HyperSync.hypersync.SignInActivity"
+            android:exported="false"
+            android:label="Sign In" />
+        <activity
+            android:name="com.HyperSync.hypersync.GettingStarted"
+            android:exported="false" />
+        <activity
+            android:name="com.HyperSync.hypersync.SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.HyperSync.hypersync.MainActivity"
+            android:exported="true" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

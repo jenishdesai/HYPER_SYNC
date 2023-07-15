@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/rajat/AndroidStudioProjects/HyperSync2/HyperSync/app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="..\:/Users/rajat/AndroidStudioProjects/HyperSync2/HyperSync/app/src/main/res/layout/activity_home_page.xml" value="0.25" />
+        <entry key="..\:/Users/rajat/AndroidStudioProjects/HyperSync2/HyperSync/app/src/main/res/layout/activity_otpactivity.xml" value="0.25" />
+        <entry key="..\:/Users/rajat/AndroidStudioProjects/HyperSync2/HyperSync/app/src/main/res/layout/activity_sign_up_admin.xml" value="0.26875" />
+        <entry key="..\:/Users/rajat/AndroidStudioProjects/HyperSync2/HyperSync/app/src/main/res/layout/announcement_rv.xml" value="0.25" />
+        <entry key="..\:/Users/rajat/AndroidStudioProjects/HyperSync2/HyperSync/app/src/main/res/layout/fragment_announcement_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/rajat/AndroidStudioProjects/HyperSync2/HyperSync/app/src/main/res/layout/fragment_poll_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/rajat/AndroidStudioProjects/HyperSync2/HyperSync/app/src/main/res/layout/fragment_profile.xml" value="0.26875" />
+        <entry key="..\:/Users/rajat/AndroidStudioProjects/HyperSync2/HyperSync/app/src/main/res/layout/layout_dialog.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

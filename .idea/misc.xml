@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/HyperSync-main/app/src/main/res/layout/activity_home_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/HyperSync-main/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/HyperSync-main/app/src/main/res/layout/fragment_poll_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/HyperSync-main/app/src/main/res/layout/sample_show_user.xml" value="0.25416666666666665" />
+        <entry key="..\:/HyperSync-main/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/rajat/AndroidStudioProjects/HyperSync2/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/Users/rajat/AndroidStudioProjects/HyperSync2/app/src/main/res/layout/activity_sign_up_admin.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/cardborder.xml" value="0.24259259259259258" />
+        <entry key="app/src/main/res/layout/activity_admin_tool.xml" value="0.28802083333333334" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_getting_started.xml" value="0.2462962962962963" />
+        <entry key="app/src/main/res/layout/activity_home_page.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.24166666666666667" />
+        <entry key="app/src/main/res/layout/activity_otpactivity.xml" value="0.24814814814814815" />
+        <entry key="app/src/main/res/layout/activity_recorded.xml" value="0.23703703703703705" />
+        <entry key="app/src/main/res/layout/activity_sign_in.xml" value="0.24814814814814815" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.24814814814814815" />
+        <entry key="app/src/main/res/layout/activity_sign_up_admin.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.2462962962962963" />
+        <entry key="app/src/main/res/layout/activity_terms_conditions.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/announcement_rv.xml" value="0.30512820512820515" />
+        <entry key="app/src/main/res/layout/fragment_admin.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/fragment_announcement_dialog.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_attendance.xml" value="0.20852641334569044" />
+        <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_employee.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/fragment_holiday_dialog.xml" value="0.31005732152162585" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/fragment_notifications.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_poll_dialog.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_project.xml" value="0.45" />
+        <entry key="app/src/main/res/layout/layout_dialog.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/recycler_admin.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/recycler_employee.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/recyclerview_layout.xml" value="0.28125" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.165" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.335" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

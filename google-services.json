@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "724048286488",
+    "firebase_url": "https://hypersync-464de-default-rtdb.firebaseio.com",
+    "project_id": "hypersync-464de",
+    "storage_bucket": "hypersync-464de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724048286488:android:5b01c1e06aba7d1686046d",
+        "android_client_info": {
+          "package_name": "com.HyperSync.hypersync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724048286488-s93c39rhb6n2mbfjc738obba10i1hvnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrr3XW82SEnJsbwTN6LEJ706u1an4IG8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724048286488-s93c39rhb6n2mbfjc738obba10i1hvnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
